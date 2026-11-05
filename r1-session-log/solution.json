@@ -1,0 +1,6 @@
+{
+  "author": "Струин Артём",
+  "language": "C++17",
+  "build": "g++ -O2 -std=c++17 -o solution.exe main.cpp",
+  "run": "solution.exe"
+}
